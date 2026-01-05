@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ambadi
 ## React Native & React Developer (4+ years)
-- Build clean, scalable mobile & web apps using React, React Native, TypeScript
-- Love writing readable code, reusable components, and smooth UI/UX
+- I Build clean, scalable mobile & web apps using React, React Native, TypeScript
+- I Love writing readable code, reusable components, and smooth UI/UX
   
 ## 🚀 What I Do
 - Build production-ready mobile apps (React Native)
