@@ -5,7 +5,7 @@
   
 ## 🚀 What I Do
 - Build production-ready mobile apps (React Native)
-- Create dashboards, portals & UI systems (React)
+- Create dashboards, portals & UI systems (React/NextJs)
 - Develop reusable component libraries
 - Work with Redux Toolkit, Redux-Saga, RTK Query, Zustand
 - Integrate REST APIs & real-time updates (WebSockets, FeathersJS)
@@ -14,9 +14,9 @@
 ## 🛠️ Tech Stack
 - Languages: JavaScript (ES6+), TypeScript
 - Frontend: React, React Native, Redux Toolkit, Redux-Saga, Zustand, NextJs
-- Backend / Services: REST APIs, Firebase, Google Suit integration
+- Backend / Services: REST APIs, Firebase, Google Suit integration, NextJs api routes
 - Tools: Git, Jira, VSCode, WebSockets
-- UI & Animations: Reanimated, Styled Components, Responsive Design, Framer motion
+- UI & Animations: Reanimated, Styled Components, Responsive Design, Framer motion, CSS, Tailwind Css
 
 ## 📫 Reach Me
 - 📧 ambadyrkumar21@gmail.com
