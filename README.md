@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ambadi
-## React Native & React Developer (4+ years)
-- I Build clean, scalable mobile & web apps using React, React Native, TypeScript
+## React Native & React/NextJs Developer (5+ years)
+- I Build clean, scalable mobile & web apps using React/NextJs, React Native, TypeScript
 - I Love writing readable code, reusable components, and smooth UI/UX
   
 ## 🚀 What I Do
@@ -13,10 +13,10 @@
   
 ## 🛠️ Tech Stack
 - Languages: JavaScript (ES6+), TypeScript
-- Frontend: React, React Native, Redux Toolkit, Redux-Saga, Zustand
-- Backend / Services: REST APIs, Firebase
+- Frontend: React, React Native, Redux Toolkit, Redux-Saga, Zustand, NextJs
+- Backend / Services: REST APIs, Firebase, Google Suit integration
 - Tools: Git, Jira, VSCode, WebSockets
-- UI & Animations: Reanimated, Styled Components, Responsive Design
+- UI & Animations: Reanimated, Styled Components, Responsive Design, Framer motion
 
 ## 📫 Reach Me
 - 📧 ambadyrkumar21@gmail.com
@@ -26,7 +26,7 @@
 - Music lover
 - Cricket fan
 - Fitness enthusiast
-- Loves bikes
+- Loves motorbikes
 - Software engineer by day, dreamer by night 😄
 
 
